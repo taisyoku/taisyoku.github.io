@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+最終更新: 2021.09.12  
 
-You can use the [editor on GitHub](https://github.com/taisyoku/taisyoku.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## あ行
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Amazon
 
-### Markdown
+- [Amazonシアトル本社を退職しました](https://honkiku.com/farewell-amazon/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## か行
 
-```markdown
-Syntax highlighted code block
+### Google
 
-# Header 1
-## Header 2
-### Header 3
+- [Googleを退職してLaunchableに入社しました](https://draftcode.osak.jp/contents/2021-08-11-google%E3%82%92%E9%80%80%E8%81%B7%E3%81%97%E3%81%A6launchable%E3%81%AB%E5%85%A5%E7%A4%BE%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F)
 
-- Bulleted
-- List
+### クックパッド
 
-1. Numbered
-2. List
+- [クックパッドを退職して Ubie Discovery に転職しました](https://hokaccha.hatenablog.com/entry/2021/09/01/092839)
 
-**Bold** and _Italic_ and `Code` text
+## さ行
 
-[Link](url) and ![Image](src)
-```
+## た行
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Treasure Data
 
-### Jekyll Themes
+- [退職します2021](https://tagomoris.hatenablog.com/entry/2021/05/31/091238)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/taisyoku/taisyoku.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## な行
 
-### Support or Contact
+## は行
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### はてな
+
+- [はてなを退職します](https://chirarhythm.hatenablog.com/entry/2021/08/20/190000)
+- [株式会社はてなを退職しました](https://blog.shibayu36.org/entry/2021/08/13/190000)
+- [はてなを退職します](https://ninomiyateppei.com/entry/2021/03/31/160000)
+
+## ま行
+
+## や行
+
+## ら行
+
+### Repro
+
+- [Repro株式会社を退職します](https://note.com/hiroxyy/n/na7e6d9443f71)
+
+## わ行
