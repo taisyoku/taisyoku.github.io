@@ -36,6 +36,7 @@
 
 - [クックパッドを退職して Ubie Discovery に転職しました](https://hokaccha.hatenablog.com/entry/2021/09/01/092839) (2021.09)
 - [転職します（Cookpad → Ubie）](https://mztn.hatenablog.com/entry/cookpad-to-ubie) (2021.08)
+- [私が好きなクックパッドを辞めた話](https://note.com/hoihowidesign/n/n3b832d9190c6) (2021.07)
 
 ### Gunosy
 
@@ -66,6 +67,10 @@
 ### Sansan
 
 - [SANSANを退職してUBIEに入社します](https://yag-ays.github.io/article/ubie/) (2020.05)
+
+### GMOインターネット
+
+- [4年勤めたGMOインターネット株式会社を退職します。](https://syu-m-5151.hatenablog.com/entry/2021/05/31/094928) (2021.05)
 
 ### GMOペパボ
 
