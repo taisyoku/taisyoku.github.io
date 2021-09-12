@@ -2,6 +2,14 @@
 
 ## あ行
 
+### アスクル
+
+- [明日来るから卒業し、明日へ向かって行く](https://steam.place/entry/2020/06/30/100000) (2020.06)
+
+### アスタミューゼ
+
+- [アスタミューゼ(株)を退職します](https://www.na3.jp/entry/20200630/p1) (2020.06)
+
 ### アピリッツ
 
 - [退職（およびスラド編集長からの退任）のご挨拶](https://srad.jp/~hylom/journal/640078/) (2020.07)
@@ -9,7 +17,12 @@
 ### Amazon
 
 - [Amazonシアトル本社を退職しました](https://honkiku.com/farewell-amazon/) (2021.08)
+- [会社を退職し個人事業主となります](https://ngzm.hateblo.jp/entry/2020/02/24/145849) (2020.02)
 
+### 一休
+
+- [一休.comを退職した](https://ninjinkun.hatenablog.com/entry/2020/06/14/120832) (2020.06)
+ 
 ### Indeed
 
 - [3年半勤めたIndeedを退職してestieに入社した理由](https://inside.estie.co.jp/entry/indeedtoestie) (2020.10)
@@ -34,6 +47,10 @@
 ### エウレカ
 
 - [エウレカを退職して、Ubieに入社しました！](https://sotaro-tanaka.medium.com/join-ubie-1df7ce5b0c49) (2020.12)
+
+### NHK
+
+- [NHKを辞めることにしました。](https://note.com/takamatsunana/n/n3ffa69cfc4d5) (2020.07)
 
 ### NTT
 
@@ -191,12 +208,17 @@
 
 - [ソフトウェアエンジニアとして2年半くらい勤めたマッキンゼーを退職しました](https://blog.watilde.com/2020/09/11/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%A8%E3%81%97%E3%81%A62%E5%B9%B4%E5%8D%8A%E3%81%8F%E3%82%89%E3%81%84%E5%8B%A4%E3%82%81%E3%81%9F/) (2020.09)
 
+### MAMORIO
+
+- [MAMORIOという紛失防止IoTスタートアップでCOOをやってた話。](https://note.com/rsensui/n/n53733217786e) (2020.07)
+
 ### メルカリ
 
 - [転職しました: メルペイ -> Ubie ~クセつよ組織を求めて~](https://syucream.hatenablog.jp/entry/2021/08/04/125435) (2021.08)
 - [メルカリへ6年越しの最後のラブレター](https://note.com/tanabemg/n/ne76ba3633b3e) (2020.11)
 - [メルカリ・メルペイでの4年間](https://blog.jarinosuke.com/four-years-at-mercari-and-merpay/) (2020.10)
 - [メルカリ/メルペイを退職します](https://journal.lampetty.net/entry/leaving-mercari-merpay) (2020.08)
+- [PR未経験の私がメルカリ広報として過ごした濃厚な4年間とこれから](https://note.com/sayo_gvo/n/nbe986341a3bc) (2020.08)
 - [4年3ヶ月働いたメルカリを退職します](https://note.com/r1ccha/n/n183702ea9974) (2020.04)
 - [leave mercari](https://www.sottar.io/blogs/leave_mercari/) (2020.02)
 - [近況報告](https://sota1235.hatenablog.com/entry/2020/01/29/100000) (2020.01)
@@ -222,6 +244,10 @@
 ### LAPRAS
 
 - [LAPRAS株式会社を退職する](https://h3poteto.hatenablog.com/entry/2020/08/09/202557) (2020.08)
+
+### リクルート
+
+- [新卒入社したリクルートを退職しました](https://yoshiyuki-kato.hatenablog.com/entry/2020/04/05/155416) (2020.04)
 
 ### レバレジーズ
 
