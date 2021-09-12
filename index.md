@@ -35,6 +35,7 @@
 ### Google
 
 - [Googleを退職してLaunchableに入社しました](https://draftcode.osak.jp/contents/2021-08-11-google%E3%82%92%E9%80%80%E8%81%B7%E3%81%97%E3%81%A6launchable%E3%81%AB%E5%85%A5%E7%A4%BE%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F) (2021.08)
+- [Google のエンジニアを辞めて Progate を始めます。](https://amiq11.hatenablog.com/entry/2021/04/01/Google-to-Progate) (2021.04)
 
 ### クックパッド
 
@@ -79,6 +80,10 @@
 ### GMOペパボ
 
 - [ペパボを退職](https://repl.info/archives/2995/) (2020.07)
+
+### 情報通信研究機構
+
+- [6年3ヶ月勤めた国立研究開発法人情報通信研究機構(NICT)を退職しました](https://yumulog.hatenablog.com/entry/2021/03/31/090916) (2021.03)
 
 ### ZOZOテクノロジーズ
 
