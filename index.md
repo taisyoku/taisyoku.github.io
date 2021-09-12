@@ -92,6 +92,10 @@
 
 - [クラウドワークスを退職します。](https://engineer.crowdworks.jp/entry/2020/06/26/145553) (2020.06)
 
+### クラスメソッド
+
+- [クラスメソッドに新卒入社し10年目になるワイがキャリアや思い出を振り返り、そして卒業する](https://dev.classmethod.jp/articles/i-love-classmethod/) (2020.04)
+
 ### GROOVE X
 
 - [退職しました](https://www.zopfco.de/entry/2020/03/31/223734) (2020.03)
@@ -170,6 +174,10 @@
 - [株式会社ドワンゴを退職します、デザイナーからフォントエンジニアになります](https://ln-north.hateblo.jp/entry/2020/09/09/012828) (2020.09)
 
 ## な行
+
+### ノハナ
+
+- [コードと向き合い組織と向き合い自分と向き合うこと (あるいはノハナからLayerXへ転職のご報告)](https://note.com/tacke_jp/n/n073eb8d5fa89) (2020.03)
 
 ## は行
 
@@ -262,6 +270,10 @@
 ### リクルート
 
 - [新卒入社したリクルートを退職しました](https://yoshiyuki-kato.hatenablog.com/entry/2020/04/05/155416) (2020.04)
+
+### Luminoso
+
+- [ルミノソジャパン合同会社を退職しました](https://shiumachi.hatenablog.com/entry/2020/03/24/170000) (2020.03)
 
 ### レバレジーズ
 
