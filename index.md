@@ -126,6 +126,10 @@
 
 - [6年3ヶ月勤めた国立研究開発法人情報通信研究機構(NICT)を退職しました](https://yumulog.hatenablog.com/entry/2021/03/31/090916) (2021.03)
 
+### スマートニュース
+
+- [人材流動性を高めます (概ね6年ぶり3回目)](https://note.com/k11i/n/n08c332e38bf1) (2020.04)
+
 ### ZOZOテクノロジーズ
 
 - [ZOZOテクノロジーズ/ZOZO研究所を退職しました。次は医療xAIスタートアップUbieに行ってきます。](https://note.com/shikajiro/n/n90532a8ef801) (2021.08)
@@ -175,6 +179,7 @@
 - [株式会社はてなを退職しました](https://blog.shibayu36.org/entry/2021/08/13/190000) (2021.08)
 - [はてなを退職します](https://ninomiyateppei.com/entry/2021/03/31/160000) (2021.03)
 - [株式会社はてなを退職](https://this.aereal.org/entry/ex-hatena) (2020.07)
+- [ジョブチェンジ](https://tana.hatenablog.com/entry/2020/04/12/194942) (2020.04)
 
 ### フィードフォース
 
