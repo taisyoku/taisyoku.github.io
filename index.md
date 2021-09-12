@@ -150,6 +150,14 @@
 - [はてなを退職します](https://ninomiyateppei.com/entry/2021/03/31/160000) (2021.03)
 - [株式会社はてなを退職](https://this.aereal.org/entry/ex-hatena) (2020.07)
 
+### フィードフォース
+
+- [転職してました](https://hanocha.hateblo.jp/entry/2020/08/16/222215) (2020.08)
+
+### ビープラウド
+
+- [ビープラウドを退職して、起業しました](https://blog.hirokiky.org/entry/2020/09/01/102205) (2020.09)
+
 ### ピクシブ
 
 - [ピクシブ株式会社を退職します](https://tanakalivesinsendai.hatenablog.com/entry/2020/11/27/064359) (2020.11)
