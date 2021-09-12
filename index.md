@@ -14,6 +14,10 @@
 
 - [3年半勤めたIndeedを退職してestieに入社した理由](https://inside.estie.co.jp/entry/indeedtoestie) (2020.10)
 
+### VMware
+
+- [VMwareを退職します](https://jaco.udcp.info/entry/2021/09/07/171710) (2021.09)
+
 ### UUUM
 
 - [UUUM株式会社執行役員CTOを退任します](https://bto.hatenablog.com/entry/2020/01/27/110303) (2020.01)
@@ -35,6 +39,10 @@
 ### クックパッド
 
 - [クックパッドを退職して Ubie Discovery に転職しました](https://hokaccha.hatenablog.com/entry/2021/09/01/092839) (2021.09)
+
+### Gunosy
+
+- [創業したGunosyを退職したので職を探しています](https://note.com/yoshifumiseki/n/nf640bc7496cb) (2021.08)
 
 ### クラウドワークス
 
@@ -86,6 +94,7 @@
 
 ### Treasure Data
 
+- [カナダで転職して、プロダクトマネージャーからソフトウェアエンジニアに戻った。](https://takuti.me/ja/note/td-to-amazon/) (2021.08)
 - [退職します2021](https://tagomoris.hatenablog.com/entry/2021/05/31/091238) (2021.05)
 - [Treasure Dataを退職します](https://blog.kamipo.net/entry/2020/08/26/145410) (2020.08)
 
