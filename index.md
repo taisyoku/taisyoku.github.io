@@ -138,7 +138,7 @@
 
 ### Preferred Networks
 
-- [Preferred Networksという最高の会社に新卒入社して2年で退職しました](https://scrapbox.io/k1ito/Preferred_Networks%E3%81%A8%E3%81%84%E3%81%86%E6%9C%80%E9%AB%98%E3%81%AE%E4%BC%9A%E7%A4%BE%E3%81%AB%E6%96%B0%E5%8D%92%E5%85%A5%E7%A4%BE%E3%81%97%E3%81%A62%E5%B9%B4%E3%81%A7%E9%80%80%E8%81%B7%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F)
+- [Preferred Networksという最高の会社に新卒入社して2年で退職しました](https://scrapbox.io/k1ito/Preferred_Networks%E3%81%A8%E3%81%84%E3%81%86%E6%9C%80%E9%AB%98%E3%81%AE%E4%BC%9A%E7%A4%BE%E3%81%AB%E6%96%B0%E5%8D%92%E5%85%A5%E7%A4%BE%E3%81%97%E3%81%A62%E5%B9%B4%E3%81%A7%E9%80%80%E8%81%B7%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F) (2021.03)
 
 ### ベルフェイス
 
