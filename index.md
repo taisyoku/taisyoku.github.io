@@ -14,6 +14,14 @@
 
 - [3年半勤めたIndeedを退職してestieに入社した理由](https://inside.estie.co.jp/entry/indeedtoestie)
 
+### UUUM
+
+- [UUUM株式会社執行役員CTOを退任します](https://bto.hatenablog.com/entry/2020/01/27/110303)
+
+### 永和システムマネジメント
+
+- [永和システムマネジメントを辞めました](https://takkanm.hateblo.jp/entry/2020/02/05/162643)
+
 ## か行
 
 ### Quipper
@@ -32,11 +40,23 @@
 
 - [クラウドワークスを退職します。](https://engineer.crowdworks.jp/entry/2020/06/26/145553)
 
+### GROOVE X
+
+- [退職しました](https://www.zopfco.de/entry/2020/03/31/223734)
+
+### 国際連合
+
+- [【転職エントリー】国連を退職し、Kyashで働くことになりました](https://blog.shota-kameyama.com/2020/02/08/quit-un-and-start-kyash/)
+
 ## さ行
 
 ### Cygames
 
 - [株式会社Cygamesを退職しました](https://note.com/kumajet/n/n32182c2f99fc)
+
+### サイボウズ
+
+- [サイボウズを退職します──会社と個人の距離感を模索した5年間の軌跡](https://cybozushiki.cybozu.co.jp/articles/m005537.html)
 
 ### Sansan
 
@@ -46,11 +66,19 @@
 
 - [ペパボを退職](https://repl.info/archives/2995/)
 
+### ZOZOテクノロジーズ
+
+- [ZOZOテクノロジーズを退職します](https://blog.inductor.me/entry/retire-zozotech)
+
 ## た行
 
 ### 竹書房
 
 - [竹書房退職エントリ](https://note.com/thibiki/n/na5e74631cd7d)
+
+### テレビ東京
+
+- [テレビ東京を退職します](https://note.com/shotag/n/n204784376da1)
 
 ### トヨタ自動車
 
@@ -101,6 +129,8 @@
 - [メルカリ・メルペイでの4年間](https://blog.jarinosuke.com/four-years-at-mercari-and-merpay/)
 - [メルカリ/メルペイを退職します](https://journal.lampetty.net/entry/leaving-mercari-merpay)
 - [4年3ヶ月働いたメルカリを退職します](https://note.com/r1ccha/n/n183702ea9974)
+- [leave mercari](https://www.sottar.io/blogs/leave_mercari/)
+- [近況報告](https://sota1235.hatenablog.com/entry/2020/01/29/100000)
 
 ## や行
 
@@ -110,6 +140,10 @@
 - [【退職エントリー】ヤフーを退職しました](https://note.com/code1110/n/nd7b4dabe7b98)
 
 ## ら行
+
+### LINE
+
+- [すべてを注いだLINE株式会社を退職します](https://note.com/kanetomo/n/n3b93e51ab6cf)
 
 ### LAPRAS
 
