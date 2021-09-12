@@ -28,6 +28,7 @@
 
 ### 永和システムマネジメント
 
+- [永和システムマネジメントを退職しました](https://kunitoo.hatenablog.com/entry/leave-esminc) (2020.12)
 - [永和システムマネジメントを辞めました](https://takkanm.hateblo.jp/entry/2020/02/05/162643) (2020.02)
 
 ## か行
@@ -172,6 +173,10 @@
 - [leave mercari](https://www.sottar.io/blogs/leave_mercari/) (2020.02)
 - [近況報告](https://sota1235.hatenablog.com/entry/2020/01/29/100000) (2020.01)
 
+### MNTSQ
+
+- [MNTSQからみらい翻訳に転職しました](https://nmoriyama.hatenablog.com/entry/2020/12/24/155236) (2020.12)
+ 
 ## や行
 
 ### ヤフー
