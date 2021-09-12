@@ -31,6 +31,18 @@
 - [永和システムマネジメントを退職しました](https://kunitoo.hatenablog.com/entry/leave-esminc) (2020.12)
 - [永和システムマネジメントを辞めました](https://takkanm.hateblo.jp/entry/2020/02/05/162643) (2020.02)
 
+### エウレカ
+
+- [エウレカを退職して、Ubieに入社しました！](https://sotaro-tanaka.medium.com/join-ubie-1df7ce5b0c49) (2020.12)
+
+### NTT
+
+- [NTT研を辞めて転職D進した話](https://alfredplpl.hatenablog.com/entry/doctor) (2020.12)
+
+### オンザロード
+
+- [オンザロードを卒業します](https://kyon-mm.hatenablog.com/entry/20201208/graduate-from-otr) (2020.12)
+
 ## か行
 
 ### Quipper
@@ -138,6 +150,13 @@
 - [はてなを退職します](https://ninomiyateppei.com/entry/2021/03/31/160000) (2021.03)
 - [株式会社はてなを退職](https://this.aereal.org/entry/ex-hatena) (2020.07)
 
+### ピクシブ
+
+- [ピクシブ株式会社を退職します](https://tanakalivesinsendai.hatenablog.com/entry/2020/11/27/064359) (2020.11)
+
+### 日立製作所
+
+- [超安定志向の僕が“安定”を求めて大手企業からベンチャー企業に転職した話。](https://note.com/ksknrs/n/ndc2fa9d25b38) (2020.11)
 
 ### VMware
 
@@ -167,6 +186,7 @@
 ### メルカリ
 
 - [転職しました: メルペイ -> Ubie ~クセつよ組織を求めて~](https://syucream.hatenablog.jp/entry/2021/08/04/125435) (2021.08)
+- [メルカリへ6年越しの最後のラブレター](https://note.com/tanabemg/n/ne76ba3633b3e) (2020.11)
 - [メルカリ・メルペイでの4年間](https://blog.jarinosuke.com/four-years-at-mercari-and-merpay/) (2020.10)
 - [メルカリ/メルペイを退職します](https://journal.lampetty.net/entry/leaving-mercari-merpay) (2020.08)
 - [4年3ヶ月働いたメルカリを退職します](https://note.com/r1ccha/n/n183702ea9974) (2020.04)
