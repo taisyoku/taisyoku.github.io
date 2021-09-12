@@ -56,6 +56,10 @@
 
 - [NTT研を辞めて転職D進した話](https://alfredplpl.hatenablog.com/entry/doctor) (2020.12)
 
+### NTTコミュニケーションズ
+
+- [転職しました](https://lealog.hateblo.jp/entry/2020/07/01/123153) (2020.07)
+
 ### オンザロード
 
 - [オンザロードを卒業します](https://kyon-mm.hatenablog.com/entry/20201208/graduate-from-otr) (2020.12)
