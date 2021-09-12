@@ -69,6 +69,7 @@
 ### Quipper
 
 - [Quipper に入社して7年が経った](https://blog.kyanny.me/entry/2020/06/30/234356) (2020.06)
+- [Quipperを"退職"ります](https://ohbarye.hatenablog.jp/entry/2020/03/09/retire-from-quipper) (2020.03)
 
 ### Google
 
@@ -139,6 +140,10 @@
 ### テレビ東京
 
 - [テレビ東京を退職します](https://note.com/shotag/n/n204784376da1) (2020.03)
+
+### 東映アニメーション
+
+- [東映アニメーションを退職しました](http://cieloblog.blog75.fc2.com/blog-entry-30.html) (2020.05)
 
 ### 東洋経済新報社
 
