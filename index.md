@@ -161,6 +161,10 @@
 
 - [僕はなぜトヨタの人事を3年で辞めたのか](https://note.com/kazushi_takagi/n/nc5076eda7a2f) (2020.09)
 
+### トランスリミット
+
+- [ゲーム系スタートアップを退職しました](https://note.com/matsukaz/n/nbff8d5461da5) (2020.02)
+
 ### Treasure Data
 
 - [カナダで転職して、プロダクトマネージャーからソフトウェアエンジニアに戻った。](https://takuti.me/ja/note/td-to-amazon/) (2021.08)
@@ -172,6 +176,7 @@
 - [株式会社ドワンゴを退職しました](https://tsuwatch.hatenablog.com/entry/2021/03/11/190000) (2021.03)
 - [株式会社ドワンゴを退職しました](https://ch.nicovideo.jp/pibo/blomaga/ar129061) (2021.03)
 - [株式会社ドワンゴを退職します、デザイナーからフォントエンジニアになります](https://ln-north.hateblo.jp/entry/2020/09/09/012828) (2020.09)
+- [ハッピーバースデー&ドワンゴ退職](https://crexist.hatenablog.com/entry/2020/02/20/235508) (2020.02)
 
 ## な行
 
@@ -242,6 +247,7 @@
 - [メルカリ/メルペイを退職します](https://journal.lampetty.net/entry/leaving-mercari-merpay) (2020.08)
 - [PR未経験の私がメルカリ広報として過ごした濃厚な4年間とこれから](https://note.com/sayo_gvo/n/nbe986341a3bc) (2020.08)
 - [4年3ヶ月働いたメルカリを退職します](https://note.com/r1ccha/n/n183702ea9974) (2020.04)
+- [メルカリを退職します｜ミッションを信じ、バリューを体現し続けた5年3ヶ月について](https://note.com/t_1496/n/n6b1139c3348e) (2020.03)
 - [leave mercari](https://www.sottar.io/blogs/leave_mercari/) (2020.02)
 - [近況報告](https://sota1235.hatenablog.com/entry/2020/01/29/100000) (2020.01)
 
