@@ -14,6 +14,10 @@
 
 - [3年半勤めたIndeedを退職してestieに入社した理由](https://inside.estie.co.jp/entry/indeedtoestie) (2020.10)
 
+### Indiegogo
+
+- [96: ダイアローグ](https://text.hmsk.me/entries/2021-01-31/) (2021.01)
+
 ### UUUM
 
 - [UUUM株式会社執行役員CTOを退任します](https://bto.hatenablog.com/entry/2020/01/27/110303) (2020.01)
@@ -36,12 +40,14 @@
 
 - [Googleを退職してLaunchableに入社しました](https://draftcode.osak.jp/contents/2021-08-11-google%E3%82%92%E9%80%80%E8%81%B7%E3%81%97%E3%81%A6launchable%E3%81%AB%E5%85%A5%E7%A4%BE%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F) (2021.08)
 - [Google のエンジニアを辞めて Progate を始めます。](https://amiq11.hatenablog.com/entry/2021/04/01/Google-to-Progate) (2021.04)
+- [さようなら、ありがとう Google。 坂の上の坂は Ubieで よさそう](https://note.com/shinjihondo/n/naedf3ed4a166) (2021.02)
 
 ### クックパッド
 
 - [クックパッドを退職して Ubie Discovery に転職しました](https://hokaccha.hatenablog.com/entry/2021/09/01/092839) (2021.09)
 - [転職します（Cookpad → Ubie）](https://mztn.hatenablog.com/entry/cookpad-to-ubie) (2021.08)
 - [私が好きなクックパッドを辞めた話](https://note.com/hoihowidesign/n/n3b832d9190c6) (2021.07)
+- [クックパッド株式会社を退職しました](https://diary.hatenablog.jp/entry/2021/02/28/004511) (2021.02)
 
 ### Gunosy
 
@@ -113,6 +119,7 @@
 ### ドワンゴ
 
 - [株式会社ドワンゴを退職しました](https://tsuwatch.hatenablog.com/entry/2021/03/11/190000) (2021.03)
+- [株式会社ドワンゴを退職しました](https://ch.nicovideo.jp/pibo/blomaga/ar129061) (2021.03)
 - [株式会社ドワンゴを退職します、デザイナーからフォントエンジニアになります](https://ln-north.hateblo.jp/entry/2020/09/09/012828) (2020.09)
 
 ## な行
