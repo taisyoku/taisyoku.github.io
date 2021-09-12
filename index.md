@@ -14,10 +14,6 @@
 
 - [3年半勤めたIndeedを退職してestieに入社した理由](https://inside.estie.co.jp/entry/indeedtoestie) (2020.10)
 
-### VMware
-
-- [VMwareを退職します](https://jaco.udcp.info/entry/2021/09/07/171710) (2021.09)
-
 ### UUUM
 
 - [UUUM株式会社執行役員CTOを退任します](https://bto.hatenablog.com/entry/2020/01/27/110303) (2020.01)
@@ -112,6 +108,12 @@
 - [株式会社はてなを退職しました](https://blog.shibayu36.org/entry/2021/08/13/190000) (2021.08)
 - [はてなを退職します](https://ninomiyateppei.com/entry/2021/03/31/160000) (2021.03)
 - [株式会社はてなを退職](https://this.aereal.org/entry/ex-hatena) (2020.07)
+
+
+### VMware
+
+- [VMwareを退職します](https://jaco.udcp.info/entry/2021/09/07/171710) (2021.09)
+
 
 ### 富士通
 
