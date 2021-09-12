@@ -26,6 +26,7 @@
 ### Indeed
 
 - [3年半勤めたIndeedを退職してestieに入社した理由](https://inside.estie.co.jp/entry/indeedtoestie) (2020.10)
+- [Indeedを退職してUbieに入社します](https://note.com/masa_kazama/n/n2ae17f220f83) (2020.02)
 
 ### Indiegogo
 
@@ -66,6 +67,10 @@
 
 ## か行
 
+### CureApp
+
+- [株式会社CureAppを退職します](https://blog.leko.jp/post/change-jobs-2020/) (2020.01)
+
 ### Quipper
 
 - [Quipper に入社して7年が経った](https://blog.kyanny.me/entry/2020/06/30/234356) (2020.06)
@@ -103,6 +108,10 @@
 ### 国際連合
 
 - [【転職エントリー】国連を退職し、Kyashで働くことになりました](https://blog.shota-kameyama.com/2020/02/08/quit-un-and-start-kyash/) (2020.02)
+
+### 国立情報学研究所
+
+- [NII退職しました](https://fumi.me/2020/01/30/nii/) (2020.01)
 
 ## さ行
 
@@ -202,9 +211,17 @@
 
 - [ビープラウドを退職して、起業しました](https://blog.hirokiky.org/entry/2020/09/01/102205) (2020.09)
 
+### FiNC Technologies
+
+- [4年間ほぼ在籍したFiNCをほぼ退職して、DeNA SWETに入ります](https://medium.com/@takasek/4%E5%B9%B4%E9%96%93%E3%81%BB%E3%81%BC%E5%9C%A8%E7%B1%8D%E3%81%97%E3%81%9Ffinc%E3%82%92%E3%81%BB%E3%81%BC%E9%80%80%E8%81%B7%E3%81%97%E3%81%A6-dena-swet%E3%81%AB%E5%85%A5%E3%82%8A%E3%81%BE%E3%81%99-87b001744111) (2020.01)
+
 ### ピクシブ
 
 - [ピクシブ株式会社を退職します](https://tanakalivesinsendai.hatenablog.com/entry/2020/11/27/064359) (2020.11)
+
+### ピクセルグリッド
+
+- [サイボウズに転職して1ヶ月たちました](https://nakajmg.hatenablog.com/entry/2020/02/03/102605) (2020.02)
 
 ### 日立製作所
 
@@ -276,6 +293,7 @@
 ### リクルート
 
 - [新卒入社したリクルートを退職しました](https://yoshiyuki-kato.hatenablog.com/entry/2020/04/05/155416) (2020.04)
+- [気づいたら副業先に転職していた件](https://note.com/macchy/n/n5a85854e2dad) (2020.02)
 
 ### Luminoso
 
