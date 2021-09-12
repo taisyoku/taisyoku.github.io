@@ -35,6 +35,7 @@
 ### クックパッド
 
 - [クックパッドを退職して Ubie Discovery に転職しました](https://hokaccha.hatenablog.com/entry/2021/09/01/092839) (2021.09)
+- [転職します（Cookpad → Ubie）](https://mztn.hatenablog.com/entry/cookpad-to-ubie) (2021.08)
 
 ### Gunosy
 
@@ -72,6 +73,7 @@
 
 ### ZOZOテクノロジーズ
 
+- [ZOZOテクノロジーズ/ZOZO研究所を退職しました。次は医療xAIスタートアップUbieに行ってきます。](https://note.com/shikajiro/n/n90532a8ef801) (2021.08)
 - [ZOZOテクノロジーズを退職します](https://blog.inductor.me/entry/retire-zozotech) (2020.03)
 
 ## た行
@@ -133,6 +135,7 @@
 
 ### メルカリ
 
+- [転職しました: メルペイ -> Ubie ~クセつよ組織を求めて~](https://syucream.hatenablog.jp/entry/2021/08/04/125435) (2021.08)
 - [メルカリ・メルペイでの4年間](https://blog.jarinosuke.com/four-years-at-mercari-and-merpay/) (2020.10)
 - [メルカリ/メルペイを退職します](https://journal.lampetty.net/entry/leaving-mercari-merpay) (2020.08)
 - [4年3ヶ月働いたメルカリを退職します](https://note.com/r1ccha/n/n183702ea9974) (2020.04)
@@ -150,6 +153,7 @@
 
 ### LINE
 
+- [新卒データサイエンティストとして入社したLINEを退職し、GANYMEDEに入社しました](https://note.com/gya9/n/nb03fbb404972) (2021.07)
 - [すべてを注いだLINE株式会社を退職します](https://note.com/kanetomo/n/n3b93e51ab6cf) (2020.03)
 
 ### LAPRAS
