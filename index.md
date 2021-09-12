@@ -203,10 +203,6 @@
 - [株式会社はてなを退職](https://this.aereal.org/entry/ex-hatena) (2020.07)
 - [ジョブチェンジ](https://tana.hatenablog.com/entry/2020/04/12/194942) (2020.04)
 
-### フィードフォース
-
-- [転職してました](https://hanocha.hateblo.jp/entry/2020/08/16/222215) (2020.08)
-
 ### ビープラウド
 
 - [ビープラウドを退職して、起業しました](https://blog.hirokiky.org/entry/2020/09/01/102205) (2020.09)
@@ -226,6 +222,10 @@
 ### 日立製作所
 
 - [超安定志向の僕が“安定”を求めて大手企業からベンチャー企業に転職した話。](https://note.com/ksknrs/n/ndc2fa9d25b38) (2020.11)
+
+### フィードフォース
+
+- [転職してました](https://hanocha.hateblo.jp/entry/2020/08/16/222215) (2020.08)
 
 ### VMware
 
