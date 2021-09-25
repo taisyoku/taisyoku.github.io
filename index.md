@@ -135,6 +135,10 @@
 
 - [ペパボを退職](https://repl.info/archives/2995/) (2020.07)
 
+### JX通信社
+
+- [Webな事業をする会社のエンジニアから再びコンサルの世界に戻るはなし - 42歳シニアエンジニアの大冒険のはじまり](https://shinyorke.hatenablog.com/entry/ill_be_back) (2021.09)
+
 ### 情報通信研究機構
 
 - [6年3ヶ月勤めた国立研究開発法人情報通信研究機構(NICT)を退職しました](https://yumulog.hatenablog.com/entry/2021/03/31/090916) (2021.03)
